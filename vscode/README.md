@@ -1,4 +1,4 @@
-# GitHub Enterprise by CodeStream
+# GitHub by CodeStream
 
 CodeStream is a developer collaboration platform that integrates essential dev
 tools, such as GitHub Enterprise, GitHub Cloud, Slack, Teams, Jira, Trello and
@@ -187,7 +187,7 @@ Yes! If it's important for your company to keep everything on your own local net
 
 ### Where are messages stored?
 
-Your team’s codemarks, which include the message text and the code snippet, are stored in the cloud on CodeStream’s servers. CodeStream uses best practices when it comes to [security](https://www.codestream.com/security), but if your team has stringent infosec requirements an [on-prem installation option](https://docs.codestream.com/onprem/) is available.
+Your team’s codemarks, which include the message text and the code snippet, are stored in the cloud on CodeStream’s servers. CodeStream uses best practices when it comes to [security](https://www.codestream.com/security).
 
 # Help & Feedback
 
